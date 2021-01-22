@@ -3,6 +3,7 @@ package org.kodluyoruz;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Bussiness bussiness = new Bussiness();
+        bussiness.start();
     }
 }
